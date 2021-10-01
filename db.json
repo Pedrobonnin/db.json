@@ -1,0 +1,55 @@
+{
+  "personas": [
+    {
+      "id": 1,
+      "nombre": "Pedro",
+      "apellido": "Bonnin",
+      "localidad": ""
+    },
+    {
+      "id": 2,
+      "nombre": "Cornelio",
+      "apellido": "Saavedra",
+      "localidad": ""
+    },
+    {
+      "id": 3,
+      "nombre": "Bernardino",
+      "apellido": "Rivadavia",
+      "localidad": ""
+    },
+    {
+      "id": 4,
+      "nombre": "Bernardino",
+      "apellido": "Rivadavia",
+      "localidad": ""
+    },
+    {
+      "id": 5,
+      "nombre": "Martín",
+      "apellido": "Güemes",
+      "localidad": ""
+    },
+    {
+      "id": 6,
+      "nombre": "Martín",
+      "apellido": "Güemes",
+      "localidad": ""
+    },
+    {
+      "id": 7,
+      "nombre": "pedrooo"
+    }
+  ], 
+
+  "Autos": [
+      {
+        "id": 1,
+        "nombre": "Audi"
+      },
+      {
+        "id": 2,
+        "nombre": "Fiat"
+      }
+  ]
+}
